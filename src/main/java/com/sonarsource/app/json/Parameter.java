@@ -1,6 +1,7 @@
 package com.sonarsource.app.json;
 
 public class Parameter {
+
   private String key;
   private String required;
 

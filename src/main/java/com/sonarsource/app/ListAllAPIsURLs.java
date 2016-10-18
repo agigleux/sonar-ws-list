@@ -27,8 +27,6 @@ public class ListAllAPIsURLs {
 
   private static final String OUTPUT_FILENAME = "ws-urls.txt";
 
-  private static final int HTTP_STATUS_OK = 200;
-
   private static final String API_WS_LIST = "api/webservices/list";
 
   private static final Logger LOGGER = LoggerFactory.getLogger(ListAllAPIsURLs.class);

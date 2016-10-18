@@ -5,7 +5,6 @@ import java.util.List;
 public class Action {
 
   private String key;
-
   private List<Parameter> params;
 
   public String getKey() {
