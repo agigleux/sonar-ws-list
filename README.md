@@ -3,8 +3,7 @@ SonarQube APIs Extractor
 
 ### Build Status
 
-[![Build Status](https://travis-ci.org/agigleux/sonar-ws-list.svg?branch=master)](https://travis-ci.org/agigleux/sonar-ws-list) 
-[![SonarQube](https://sonarqube.com/api/badges/gate?key=org.sonarqube:sonar-ws-list)](https://sonarqube.com/overview?id=org.sonarqube%3Asonar-ws-list
+[![Build Status](https://travis-ci.org/agigleux/sonar-ws-list.svg?branch=master)](https://travis-ci.org/agigleux/sonar-ws-list) [![SonarQube](https://sonarqube.com/api/badges/gate?key=org.sonarqube:sonar-ws-list)](https://sonarqube.com/overview?id=org.sonarqube%3Asonar-ws-list)
 
 ### Usage
 
